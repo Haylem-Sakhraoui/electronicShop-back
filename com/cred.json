@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "electronics-shop-428012",
+  "private_key_id": "430151be3c739e237279590f2b3e25243503a109",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKkHIyUKqtsg7V\nADxXkT3msWbS+eqjdmwsRNu2nNrfCIWHZ9Iv+EYPtidMfCfuMxsp95ZM+RVurtSC\nPtRVKoLuj87xiRewwjqbVti4e27UgKskkTzcXLawxAVYj4n83WPioj+ZnqladOyr\nDh4EgSOCm8mcAEoExU8HDHh3nhTSpY2PoJN408T9iCSu1tHBi3BHRX2GcNEici/A\n5VaKSm1C0u6il+LZJp2U3VsA5OSC0m7XvJE3lH1PgHI6nLDXQVtPZ5KZqLzEIp67\n6ACP9iTwK1lTXB05sF5HgH+t16P8TdwzJ7KQkCrFCQuB9IXruPaUM2R0DHKO/vEK\n+00lAflfAgMBAAECggEAFl+gqBC43rk4DNbF03Y7ZsEEIRwcNTSIpisaNDAHDMjI\nLDiPbV+i0sFv0xwzh4p63vEggh1Q/LSwIY1cWTvPfRdtPXMYUXG36h3MOjQyqE4T\nQ9VhlNq4uGAuUaXTu+udc2mFqitte+GbnRkmFPaekXfbljDXUXI+/wGlnLCyjsF/\n+D50++JZ6+zEwOtVNmfZzm+cSrgYWqhefFna0e5d8/N8ZErRETyejzpIaidrkU7X\n95Vsghk/0YMxbEaIVLvPH74MqENbdZ9IhAKrTQUDcJg5cmcJ19TakYkismS0x4bO\nf8ege12okNGnCMXKiyNgEWqpbTxxNE7RyO0i62Z8oQKBgQD2JQHeQRGl09btKUh3\n/bcpRmomxkD69KLyonNul20H8zQdST8rvCUpCG9kIK3UDweiLtJsb3sK6FAemlvo\nUgeilDRyecU94JMkmmFPObE6K4mjZBPVEaLC75CMaouJgnPpkb0jhgmZZGV6yL7m\n38SbZcbU75RJoBq2iKTY1TcuHQKBgQDSrL0UMqRZyhARLD41HKFL05X5ETsvuL9O\nrpVNDgfiwOGHXzi+a5lkqbrKiRR8jRNrP22/asQr53urZhD+odfVpxIOaDj++N8X\njnsqEAun2LsyL/XxJlrCrg0hZXVASQ+56Cqn1SpuWUBnwUpwwW4i5f42rr9q+Dop\n63uF4ZccqwKBgDy7QMy/rUUHEZ6Ocwz4ErsiXoqWm+3Pcmz/XA/LWOF/Rjp7mhSG\nZXzMUf+YeIs78hw4BT8v+mHkk/AZEdgudSfN/WrJVLtBr8x2MtBDYdECcQFZbfNC\nWLBUP4wFtcwF3eehR9N9/NxWAxvacA+y4mWdJQPg4OuRj0W+TT4azXSZAoGAByfa\n3D7EGlCkrxCjpEYurFapd2ZAbmSGCvQfGhjp56fJgUGYuc8JzMN/FrYFPh3ElRX4\nclH8C8m3B6FV3nA81oLwOBEOLorhePlb8ZfN7YuNAC1k2yYEWyxyQboie2Z/5D6g\nhEbXRBw/9cY48w9+4CyTr+PLmKSJxTa8YVXCPjUCgYEArs5otbYgo2LB3TKPQH2a\nQfsVSBVXPbQSnCCdahWgOIynM4fsI3ydFpeiCta9kXYdZoxGtjYN6orhTIo0xodj\nXUoGdvghQjb8jASqAROrqqeJGQJ5pE99H9esihJLnS1+3gDMriClUog15g1UeMfZ\nHocyAv+MLWpuWldWzP5ZPnI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "googledriveupload@electronics-shop-428012.iam.gserviceaccount.com",
+  "client_id": "108883504032185170295",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googledriveupload%40electronics-shop-428012.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

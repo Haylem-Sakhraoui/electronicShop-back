@@ -1,0 +1,21 @@
+<form action="http://localhost:8075/shop/products/upload" method="post" enctype="multipart/form-data">
+    <label>Name:</label><br>
+    <input type="text" name="product.name" required><br>
+    <label>Description:</label><br>
+    <input type="text" name="product.description" required><br>
+    <label>Price:</label><br>
+    <input type="number" name="product.price" required><br>
+    <label>Category:</label><br>
+    <select name="product.category" required>
+        <option value="VIDEO_PROJECTEUR">Electronics</option>
+        <option value="CABLES">cables</option>
+        <option value="RECEPTEUR">recepteur</option>
+        <option value="LUMIERE">lumière</option>
+        <option value="ELECTRONIQUE_GENERALES">electroniques génerales</option>
+        <!-- Add more options as per your enum values -->
+    </select><br>
+    <label>Image File:</label><br>
+    <input type="file" name="imageFile" accept="image/*" required><br><br>
+    <button type="submit">Upload Product</button>
+</form>
+-
